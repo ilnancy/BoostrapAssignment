@@ -1,0 +1,9 @@
+.container{
+    height: 400px;
+    background-color: aqua;
+}
+
+.col{
+    border: 1px solid black;
+
+}
